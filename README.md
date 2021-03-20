@@ -10,9 +10,6 @@ Let's assume that you are using 5bits width. Here is an example to call the API:
 
 The followings images shows the transition among statuses:
 
-2bits
-  ![image](https://github.com/sunarvin/noise_filter/blob/main/images/2.png)
-
 3bits
   ![image](https://github.com/sunarvin/noise_filter/blob/main/images/3.png)
   
