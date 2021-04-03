@@ -1,6 +1,6 @@
 
-There are always some noise when acquiring signals.
-This simple snippet code is used to filter above noises.
+There are always some noises when acquiring signals.
+This simple snippet code is used to filter these noises.
 
 Let's assume that you are using 5bits width. Here is an example to call the API:
 
